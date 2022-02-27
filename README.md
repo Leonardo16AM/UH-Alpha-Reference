@@ -16,16 +16,13 @@ UH-Alpha Team Reference for ICPC.
  - Persistent segment tree
  - Treap
  - Binary Trie
- - Persistent Array
- - Randomized KD-Tree
- - Vantage Point Tree
  - Li Chao Tree
 
  ### 3-Graphs
  - Heavy Light Decomposition
- - Trajan
+ - Tarjan
  - Bridges
- - scc(DAG)
+ - SCC(DAG)
  - DSU on Trees
  - LCA
  - Centroid Decomposition
@@ -38,10 +35,8 @@ UH-Alpha Team Reference for ICPC.
  - Suffix Array
  - KMP
  - Suffix Automaton
- - ZFunction
  - Aho Corasic
  - Palindromic Tree
- - Manacher
  - Maximal Suffix
  - Minimum Rotation
 
