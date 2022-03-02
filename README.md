@@ -20,26 +20,18 @@ UH-Alpha Team Reference for ICPC.
 
  ### 3-Graphs
  - Heavy Light Decomposition
- - Tarjan
- - Bridges
- - SCC(DAG)
  - DSU on Trees
  - LCA
  - Centroid Decomposition
  - Max Flow Dinic
+ - Hopcroft Karp
  - Euler tour
 
 ### 4-Strings
- - Hashing
- - Dictionario de Factores Básicos
  - Suffix Array
- - KMP
  - Suffix Automaton
  - Aho Corasic
- - Palindromic Tree
- - Maximal Suffix
- - Minimum Rotation
-
+ 
 ### 5-Dynamic Programming
  - Matrix Power
  - SOS DP
