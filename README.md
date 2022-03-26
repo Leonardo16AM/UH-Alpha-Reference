@@ -31,6 +31,7 @@ UH-Alpha Team Reference for ICPC.
  - Suffix Array
  - Suffix Automaton
  - Aho Corasic
+ - Lyndon Factorization
  
 ### 5-Dynamic Programming
  - Matrix Power
